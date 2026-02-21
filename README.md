@@ -14,5 +14,5 @@ An app that cross references radio signals to find summations that can determine
 <br>
 • For Bluetooth, simply run: termux-bluetooth-scan, and if more than a few ID's show up, then obviously we have company.
 <br>
-# Requires termux!
+# Requires linux!
 # Dependencies: scapy
