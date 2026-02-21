@@ -1,4 +1,4 @@
-# esp8266-real-time-spike-detector
+# real-time-spike-detector
 An app that cross references radio signals to find summations that can determine if there are rogue devices around. 
 <br>
 <br>
