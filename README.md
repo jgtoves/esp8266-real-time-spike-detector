@@ -4,6 +4,10 @@ An app that cross references radio signals to find summations that can determine
 <br>
 • git clone https://github.com/jgtoves/real-time-spike-detector
 <br>
+• cd real-time-spike-detector
+<br>
+• python real-time-spike-detector.py
+<br>
 • pkg install termux-api python
 <br>
 • pip install statistics
